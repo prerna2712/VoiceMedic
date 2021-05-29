@@ -21,5 +21,4 @@ def get_date():
 
 get_date()
 get_time()
-speak("hello")
-speak("take paracetamol")
+speak("time to take paracetamol")
